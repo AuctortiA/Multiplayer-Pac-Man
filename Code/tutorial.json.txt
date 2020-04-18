@@ -1,0 +1,16 @@
+{
+	
+	1:	[
+			"Hi my name is MsPacMan! Press space bar to continue... 
+			 I will be helping you beat the ghosts! lets begin!... 
+			 Use the arrows keys to move pacman and collect the pellets!",
+			
+			"Well done! You collected all the pellets!...
+			 Unfortunately pacmans life isnt that easy..."
+		]
+
+	2:	[
+
+		]
+
+}

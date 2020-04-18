@@ -1,0 +1,31 @@
+{
+	
+	"1":	[
+			 "Hi my name is MsPacMan! You can press space bar to continue... Im going to try and teach you to chomp those ghosts... But first use the arrows keys to move and collect the pellets!",
+			
+			 "Well done! You collected all the pellets!... Unfortunately this gets a bit harder"
+			],
+
+	"2":	[
+			"This is clyde... Hes a ghost! But rumour has it hes actually scared of pacman... Try collecting the pellets with this handy dandy clyde scanner!",
+
+			"Well done youre nearly there!... Have you noticed clyde only targets pacman when hes far away!",
+
+			"Congrats on completing level 2!... Lets up the difficulty shall we!"
+
+			],
+
+	"3":	[
+			"This is pinky... Unlike clyde pinky always targets 4 tiles ahead of pacman...",
+
+			"Have you noticed that every now and again pinky hides in the corner... All ghosts to this every now and again and its called scattering... The amount of time they spend scattering decreases from level to level.",
+
+			"youre flying through these levels! On to the next one!"
+			],
+
+	"4": 	[
+			"Here we have the angriest ghost of them all... Blinky! Blinky targets pacman... always!"
+
+
+			]
+}
